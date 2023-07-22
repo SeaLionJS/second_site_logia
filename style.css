@@ -1,0 +1,47 @@
+/* span{
+    font-size: 32px;
+}
+
+.img-1, .img-2{
+    height: 200px;
+    margin: 15px;
+}
+
+/* перша картинка */
+/*
+.img-1{
+    float: left;
+}
+
+.img-2{
+    float: right;
+} */
+
+/* img{
+    width: 200px;
+} */
+
+.i1{
+    width: 200px;
+}
+.i2{
+    width: 200px;
+}
+.i3{
+    width: 200px;
+} 
+
+
+.images{
+    margin:  5px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(84, 102, 176);
+    width: 500px;
+    height: 800px;
+}
+h1{
+    text-align: center;
+}
